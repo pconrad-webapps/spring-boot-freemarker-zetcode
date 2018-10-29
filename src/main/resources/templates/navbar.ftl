@@ -12,6 +12,12 @@
             <li class="nav-item">
                 <a class="nav-link" href="/showCities">Show Cities</a>
             </li>
+	    <li class="nav-item">
+                <a class="nav-link" href="/pizza">Pizza</a>
+            </li>
+	    <li class="nav-item">
+                <a class="nav-link" href="/students">Students</a>
+            </li>
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     Resources

@@ -23,6 +23,19 @@ public class MyController {
         return "index";
     }
 
+    @RequestMapping("/pizza")
+    public String pizza(Model model) {
+
+        return "pizza";
+    }
+
+	@RequestMapping("/students")
+    public String students(Model model) {
+
+        return "comingSoon"; // temporary 
+    }
+
+	
     @RequestMapping("/showCities")
     public ModelAndView showCities() {
 
